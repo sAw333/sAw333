@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sAw333
 - 👀 I’m interested in Coding and learning new programming languages
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Development Project's
+- 💞️ I’m looking to collaborate on Web Development Project's
 - 📫 Reach me at shubham96690@gmail.com
 
 <!---
